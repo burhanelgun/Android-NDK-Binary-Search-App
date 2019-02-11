@@ -4,7 +4,7 @@ To run the app on Android Studio, you should install the LLDB,Cmake and NDK Tool
 
 
 <p float="left">
-    <img src="https://github.com/burhanelgun/Android-NDK-Binary-Search-App/blob/master/Screenshot_20190211-204447.jpg" width="250" title="hover text" width="100">
-<img src="https://github.com/burhanelgun/Android-NDK-Binary-Search-App/blob/master/Screenshot_20190211-204457.jpg" width="250" title="hover text" width="100">
-  <img src="https://github.com/burhanelgun/Android-NDK-Binary-Search-App/blob/master/Screenshot_20190211-204617.jpg" width="250" title="hover text"width="100">
+    <img src="https://github.com/burhanelgun/Android-NDK-Binary-Search-App/blob/master/Screenshot_20190211-204447.jpg" width="300" title="hover text">
+<img src="https://github.com/burhanelgun/Android-NDK-Binary-Search-App/blob/master/Screenshot_20190211-204457.jpg" width="300" title="hover text">
+  <img src="https://github.com/burhanelgun/Android-NDK-Binary-Search-App/blob/master/Screenshot_20190211-204617.jpg" width="300" title="hover text">
 </p>
