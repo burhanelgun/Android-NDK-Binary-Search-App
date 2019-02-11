@@ -1,6 +1,6 @@
 # Android-NDK-Binary-Search-App
 To run the app on Android Studio, you should install the LLDB,Cmake and NDK Tools from the SDK Manager in Android Studio.
-To run the app on your device,just install the [app-debug.apk](https://github.com/burhanelgun/Android-NDK-Binary-Search-App/raw/master/app-debug.apk)
+To run the app on your device, just install the [app-debug.apk](https://github.com/burhanelgun/Android-NDK-Binary-Search-App/raw/master/app-debug.apk)
 ### Screenshots Of The App
 
 
